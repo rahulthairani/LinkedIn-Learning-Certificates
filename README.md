@@ -7,4 +7,4 @@
   - **[Learning Data Science: Understanding the Basics](https://www.linkedin.com/learning/learning-data-science-understanding-the-basics "Course Description")**
   - **[Learning Microsoft Power Apps](https://www.linkedin.com/learning/learning-microsoft-power-apps "Course Description")**
   - **[Power BI: Dashboards for Beginners](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners "Course Description")**
-  - 
+  - **[Power BI Data Methods](https://www.linkedin.com/learning/power-bi-data-methods "Course Description")**
